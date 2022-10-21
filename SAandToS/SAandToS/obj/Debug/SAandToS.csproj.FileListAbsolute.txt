@@ -1,0 +1,8 @@
+H:\PROJECTS\SAandToS\SAandToS\bin\Debug\SAandToS.exe.config
+H:\PROJECTS\SAandToS\SAandToS\bin\Debug\SAandToS.exe
+H:\PROJECTS\SAandToS\SAandToS\bin\Debug\SAandToS.pdb
+H:\PROJECTS\SAandToS\SAandToS\obj\Debug\SAandToS.csproj.AssemblyReference.cache
+H:\PROJECTS\SAandToS\SAandToS\obj\Debug\SAandToS.csproj.SuggestedBindingRedirects.cache
+H:\PROJECTS\SAandToS\SAandToS\obj\Debug\SAandToS.csproj.CoreCompileInputs.cache
+H:\PROJECTS\SAandToS\SAandToS\obj\Debug\SAandToS.exe
+H:\PROJECTS\SAandToS\SAandToS\obj\Debug\SAandToS.pdb
